@@ -1,0 +1,6 @@
+tamil 90
+english 95
+maths 92
+physics 96
+chemistry 97
+computer science 100
